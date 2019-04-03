@@ -1,4 +1,8 @@
 {
+  "Shopify Schema": {
+    "prefix": "_schema",
+    "body": "{% schema %}\r\n  {\r\n    \"name\": \"$1\",\r\n    \"class\": \"$2\",\r\n    \"settings\": [\r\n      $3\r\n    ]\r\n  }\r\n{% endschema %}\r\n"
+  },
   "Shopify Schema text": {
     "prefix": "_text",
     "body": "{\r\n  \"type\": \"text\",\r\n  \"id\": \"$1\",\r\n  \"label\": \"$2\",\r\n  \"default\": \"$3\",\r\n  \"info\": \"$4\",\r\n  \"placeholder\": \"$5\"\r\n},$6"
