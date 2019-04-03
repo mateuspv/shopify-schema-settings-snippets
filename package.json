@@ -1,0 +1,20 @@
+{
+    "name": "shopify-schema-settings-snippets",
+    "displayName": "shopify-schema-settings-snippets",
+    "description": "A collection of shopify schema settings",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "liquid",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
