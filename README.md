@@ -32,6 +32,8 @@ Simple open your `.liquid` file and type `_`(underscore), you shall get the foll
 
 Open your `.liquid` file and type `_schema`, then press tab and expand the follow snippet
 
+![Demo](assets/demo.gif) 
+
 ```liquid
 {% schema %}
   {
