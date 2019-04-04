@@ -3,7 +3,7 @@
     "publisher": "mateuspv",
     "displayName": "shopify-schema-settings-snippets",
     "description": "A collection of shopify schema settings",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "icon": "assets/icon.png",
     "engines": {
         "vscode": "^1.32.0"
