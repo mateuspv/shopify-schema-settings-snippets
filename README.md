@@ -1,3 +1,15 @@
+I've unpublish this package, since I'm using this one:
+https://marketplace.visualstudio.com/items?itemName=killalau.vscode-liquid-snippets
+
+I found it more complete, and there's no reason to keep this one published.
+
+If you still want to use it, you can copy the snippets and paste on your personal snippets.
+https://code.visualstudio.com/docs/editor/userdefinedsnippets
+
+Best
+
+---
+
 # Shopify schema snippets
 
 This extension allows you to quickly create [shopify schema settings](https://help.shopify.com/en/themes/development/theme-editor/settings-schema)
