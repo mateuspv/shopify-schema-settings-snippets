@@ -31,9 +31,9 @@
     "prefix": "_range",
     "body": "{\r\n  \"type\": \"range\",\r\n  \"id\": \"$1\",\r\n  \"min\": \"$2\",\r\n  \"max\": \"$3\",\r\n  \"step\": \"$4\",\r\n  \"unit\": \"$5\",\r\n  \"label\": \"$6\",\r\n  \"default\": \"$7\"\r\n},$8"
   },
-  "Shopify Schama color": {
+  "Shopify Schema color": {
     "prefix": "_color",
-    "body": "{\r\n  \"type\" \"color\",\r\n  \"id\": \"$1\",\r\n  \"label\": \"$2\",\r\n  \"default\": \"$3\",\r\n  \"info\" \"$4\"\r\n},$5"
+    "body": "{\r\n  \"type\": \"color\",\r\n  \"id\": \"$1\",\r\n  \"label\": \"$2\",\r\n  \"default\": \"$3\",\r\n  \"info\": \"$4\"\r\n},$5"
   },
   "Shopify Schema font picker": {
     "prefix": "_font",
